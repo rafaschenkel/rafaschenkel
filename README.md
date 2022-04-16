@@ -6,8 +6,7 @@
  </h3>
 </div>
 
-<div align="center"> 
- <a href="https://github.com/rafassnh"> 
+<div align="center">  
  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaschenkel&show_icons=true&icon_color=c004fd&text_color=AAAAAA&bg_color=0,000000,333333&border_color=00ff03&border_radius=15&include_all_commits=true&count_private=true"/> 
  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschenkel&layout=compact&langs_count=4&icon_color=c004fd&text_color=AAAAAA&bg_color=0,000000,333333&border_color=00ff03&border_radius=15"/> 
 </div>
