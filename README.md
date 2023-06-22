@@ -6,7 +6,7 @@
  <h3>Possuo conhecimento em:
  <img align="center" alt="Rafa-HTML" height="20" width="30"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML,
   <img align="center" alt="Rafa-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS,
-  <img align="center" alt="Rafa-JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">JS
+  <img align="center" alt="Rafa-JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JS
  </h3>
 </div>
 
