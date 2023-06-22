@@ -1,14 +1,16 @@
 <div align="center">
  <h1>Olá, me chamo Rafael Schenkel !</h1>
 
- <h2 align="center"Sou um estudante full stack JS</h2>
+ <h2 align="center">Sou um estudante full stack JS</h2>
 
  <h3 align="center">
- <img align="center" alt="Rafa-HTML" height="40" width="60"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-JS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-HTML" height="60" width="90"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-JS" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </h3>
 </div>
+
+<hr>
 
 <div align="center">
  <a href="https://github.com/rafaschenkel/" </a>
