@@ -23,8 +23,8 @@
 
 <div align="center">
  <a href="https://github.com/rafaschenkel/" </a>
- <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaschenkel&show_icons=true&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15&include_all_commits=true&count_private=true"/> 
- <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschenkel&layout=compact&langs_count=4&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/> 
+ <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaschenkel&show_icons=true&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15&include_all_commits=true"/> 
+ <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschenkel&layout=compact&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/> 
 </div>
  
 <p></p>
