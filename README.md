@@ -10,7 +10,8 @@
   <code><img alt="Rafa-React" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img alt="Rafa-Next" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></code>
   <code><img alt="Rafa-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img alt="Rafa-TailwindCSS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"><br /><br /></code>
+  <code><img alt="Rafa-TailwindCSS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img alt="Rafa-StyledComponents" height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"></code>
   <code><img alt="Rafa-Node" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 </div>
 
