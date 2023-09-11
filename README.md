@@ -1,22 +1,22 @@
 <div align="center">
- <h1>Olá, me chamo Rafael Schenkel !</h1>
+  <h1>Olá, me chamo Rafael Schenkel !</h1>
 
- <h2 align="center">Sou um desenvolvedor Front-End - Reactjs | Typescript | Next.Js | Node.Js | JavaScript</h2>
+  <h2>Sou um desenvolvedor Front-End</h2>
 
- <h3 align="center">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Rafa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"><br /><br />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
- </h3>
+  <h2>🚀Minhas Skills</h2>
+ 
+  <code><img alt="Rafa-JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img alt="Rafa-TS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+  <code><img alt="Rafa-React" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+  <code><img alt="Rafa-Next" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></code>
+  <code><img alt="Rafa-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img alt="Rafa-TailwindCSS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"><br /><br /></code>
+  <code><img alt="Rafa-Node" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 </div>
 
 <hr>
 
-<div align="center">
+<div>
  <a href="https://github.com/rafaschenkel/" </a>
  <img width="52%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaschenkel&show_icons=true&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/> 
  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschenkel&layout=compact&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/> 
