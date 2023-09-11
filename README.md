@@ -1,7 +1,7 @@
 <div align="center">
  <h1>Olá, me chamo Rafael Schenkel !</h1>
 
- <h2 align="center">Desenvolvedor Full Stack JS</h2>
+ <h2 align="center">Sou um desenvolvedor Front-End - Reactjs | Typescript | Next.Js | Node.Js | JavaScript</h2>
 
  <h3 align="center">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,10 +12,6 @@
   <img align="center" alt="Rafa-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Rafa-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"><br /><br />
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-EX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-  <img align="center" alt="Rafa-MondoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-PostGreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
  </h3>
 </div>
 
