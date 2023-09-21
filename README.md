@@ -3,7 +3,7 @@
 
   <h2>Sou um desenvolvedor Front-End</h2>
 
-  <h2>🚀Minhas Skills</h2>
+  <h3>Minhas Skills 🚀</h3>
  
   <code><img alt="Rafa-JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
   <code><img alt="Rafa-TS" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
