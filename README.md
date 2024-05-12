@@ -1,5 +1,9 @@
 # Olá, me chamo Rafael Schenkel de Souza, sou um Dev Full Stack.
 
+## Curso em andamento
+
+- **Santander 2024 - Backend com Java** | *· Java · Stream API · Maven · JUnit · Spring Boot · Swagger* - [Digital Innovarion One](https://web.dio.me/track/santander-2024-backend-com-java)
+  
 ## Cursos concluidos
 
 - **Formação React Developer** | *· React · React Hooks · TypeScript · Next · Styled Components · TailwindCSS* - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-react-developer)
@@ -7,10 +11,6 @@
 - **Desenvolvedor Web** | *· HTML5 · CSS · SASS · Bootstrap · JavaScript · PHP · MySQL · JQuery · MVC · APIs · IONIC* - [Udemy](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
 - **Programador Web** | *· PHP · JavaScript · HTML5 · CSS · Bancos de dados* - [IFSUL - Instituto Federal Sul-rio-grandense](https://www.ifsul.edu.br/)
 - **Web Development** | *· Node · JavaScript · HTML5 · CSS · React · Express · SQL* - [Mimo](https://mimo.org/)
-
-## Curso em andamento
-
-- **Santander 2024 - Backend com Java** | *· Java · Stream API · Maven · JUnit · Spring Boot · Swagger* - [Digital Innovarion One](https://web.dio.me/track/santander-2024-backend-com-java)
 
 ## Algumas de minhas skills 🚀
 
