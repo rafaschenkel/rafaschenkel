@@ -10,7 +10,7 @@
 
 ## Curso em andamento
 
-- **Santander 2024 - Backend com Java** | *. Java . Stream API . Maven . JUnit . Spring Boot . Swagger*
+- **Santander 2024 - Backend com Java** | *· Java · Stream API · Maven · JUnit · Spring Boot · Swagger* - [Digital Innovarion One](https://web.dio.me/track/santander-2024-backend-com-java)
 
 ## Algumas de minhas skills 🚀
 
