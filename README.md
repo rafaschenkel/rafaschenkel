@@ -8,6 +8,10 @@
 - **Programador Web** | *· PHP · JavaScript · HTML5 · CSS · Bancos de dados* - [IFSUL - Instituto Federal Sul-rio-grandense](https://www.ifsul.edu.br/)
 - **Web Development** | *· Node · JavaScript · HTML5 · CSS · React · Express · SQL* - [Mimo](https://mimo.org/)
 
+## Curso em andamento
+
+- **Santander 2024 - Backend com Java** | *. Java . Stream API . Maven . JUnit . Spring Boot . Swagger*
+
 ## Algumas de minhas skills 🚀
 
 ### Linguagens de marcação e estilo
