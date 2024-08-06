@@ -1,8 +1,4 @@
 # Olá, me chamo Rafael Schenkel de Souza, sou um Dev Full Stack.
-
-## Curso em andamento
-
-- **Santander 2024 - Backend com Java** | *· Java · Stream API · Maven · JUnit · Spring Boot · Swagger* - [Digital Innovarion One](https://web.dio.me/track/santander-2024-backend-com-java)
   
 ## Cursos concluidos
 
@@ -23,8 +19,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Bibliotecas e Frameworks
 
@@ -58,7 +52,7 @@
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&color=B833FF)](https://www.dio.me/users/rafaschenkel_dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaschenkeldev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white)](mailto:rafaschenkel.dev@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge&color=B833FF)](https://www.dio.me/users/rafaschenkel_dev)
 
