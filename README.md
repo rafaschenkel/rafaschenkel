@@ -1,4 +1,8 @@
 # Olá, me chamo Rafael Schenkel de Souza, sou um Dev Full Stack.
+
+## Cursando
+
+- **Web Full Stack** | *· JavaScript · Node · React · TypeScript · Redux · HTML5 · CSS · SQL* - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
   
 ## Cursos concluidos
 
