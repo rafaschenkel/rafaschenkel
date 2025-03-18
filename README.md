@@ -2,15 +2,15 @@
 
 ## Cursando
 
-- **Web Full Stack** | *· JavaScript · Node · React · TypeScript · Redux · HTML5 · CSS · SQL* - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
+- **Web Full Stack** | · JavaScript · Node · React · TypeScript · Redux · HTML5 · CSS · SQL - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
   
 ## Cursos concluidos
 
-- **Formação React Developer** | *· React · React Hooks · TypeScript · Next · Styled Components · TailwindCSS* - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-react-developer)
-- **Formação JavaScript Developer** | *· JavaScript · Node · Express* - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-javascript-developer)
-- **Desenvolvedor Web** | *· HTML5 · CSS · SASS · Bootstrap · JavaScript · PHP · MySQL · JQuery · MVC · APIs · IONIC* - [Udemy](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
-- **Programador Web** | *· PHP · JavaScript · HTML5 · CSS · Bancos de dados* - [IFSUL - Instituto Federal Sul-rio-grandense](https://www.ifsul.edu.br/)
-- **Web Development** | *· Node · JavaScript · HTML5 · CSS · React · Express · SQL* - [Mimo](https://mimo.org/)
+- **Formação React Developer** | · React · React Hooks · TypeScript · Next · Styled Components · TailwindCSS - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-react-developer)
+- **Formação JavaScript Developer** | · JavaScript · Node · Express - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-javascript-developer)
+- **Desenvolvedor Web** | · HTML5 · CSS · SASS · Bootstrap · JavaScript · PHP · MySQL · JQuery · MVC · APIs · IONIC - [Udemy](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
+- **Programador Web** | · PHP · JavaScript · HTML5 · CSS · Bancos de dados - [IFSUL - Instituto Federal Sul-rio-grandense](https://www.ifsul.edu.br/)
+- **Web Development** | · Node · JavaScript · HTML5 · CSS · React · Express · SQL - [Mimo](https://mimo.org/)
 
 ## Algumas de minhas skills 🚀
 
