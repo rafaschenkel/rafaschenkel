@@ -1,4 +1,4 @@
-# Olá, me chamo Rafael Schenkel de Souza, sou um Dev Full Stack.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=300&multiline=true&width=520&height=60&lines=Ol%C3%A1!+Me+chamo+Rafael+Schenkel%2C;sou+um+desenvolvedor+web+full+stack)](https://git.io/typing-svg)
 
 ## Cursando
 
