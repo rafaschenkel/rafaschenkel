@@ -60,9 +60,9 @@
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]()
 
-<div>
- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rafaschenkel&show_icons=true&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschenkel&layout=compact&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/> 
-</div>
+
+<img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaschenkel&layout=compact&icon_color=c004fd&text_color=CCCCCC&title_color=00FF00&bg_color=30,000000,000055&border_color=00FF00&border_radius=15"/>
+
 
 ### Conecte-se comigo
 
