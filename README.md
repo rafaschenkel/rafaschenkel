@@ -2,7 +2,7 @@
 
 ## Cursando
 
-- **Web Full Stack** | · JavaScript · TypeScript · Node · React · Bootstrap · Styled Components · Redux · Postgresql · MongoDB · Docker - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
+- **Web Full Stack** | · JavaScript · TypeScript · Node · React · Bootstrap · Styled Components · Redux · Postgresql · Docker - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
 
 ## Cursos concluidos
 
