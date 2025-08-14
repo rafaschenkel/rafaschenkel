@@ -75,3 +75,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaschenkeldev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white)](mailto:rafaschenkel.dev@gmail.com)
+
+### 🐍 Minhas contribuições no Snake Game
+![Snake animation](https://github.com/rafaschenkeldev/rafaschenkeldev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/rafaschenkeldev/rafaschenkeldev/blob/output/github-contribution-grid-snake-dark.svg)
+
