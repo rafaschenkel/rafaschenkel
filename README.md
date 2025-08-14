@@ -77,6 +77,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white)](mailto:rafaschenkel.dev@gmail.com)
 
 ### 🐍 Minhas contribuições no Snake Game
-![Snake animation](https://github.com/rafaschenkel/rafaschenkel/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation dark](https://github.com/rafaschenkel/rafaschenkel/blob/output/github-contribution-grid-snake-dark.svg)
 
