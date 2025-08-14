@@ -2,19 +2,18 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todo dia à meia-noite UTC
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Gerar Snake Game
+      - name: Gerar Snake Game (apenas dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: rafaschenkel
+          github_user_name: rafaschenkeldev
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publicar no branch output
