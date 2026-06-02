@@ -1,7 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=3000&multiline=true&width=520&height=60&lines=Ol%C3%A1!+Me+chamo+Rafael+Schenkel%2C;sou+um+desenvolvedor+web+full+stack)](https://git.io/typing-svg)
-
-### 💼 Atuando como desenvolvedor front-end no ecommerce da Arezzo&Co pela Growdev
-## Cursos concluidos
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=3000&multiline=true&width=520&height=60&lines=Ol%C3%A1!+Me+chamo+Rafael+Schenkel%2C;sou+um+desenvolvedor+web+full+stack)](https://git.io/typing-svg)
+#### 💼 Atuando como desenvolvedor front-end no ecommerce da Arezzo&Co pela Growdev
+### Cursos concluidos
 
 - **Web Full Stack** | · JavaScript · TypeScript · Node · React · Bootstrap · Styled Components · Redux · Postgresql · Docker - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
 - **Formação React Developer** | · React · React Hooks · TypeScript · Next · Styled Components · TailwindCSS - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-react-developer)
@@ -9,22 +8,22 @@
 - **Desenvolvedor Web** | · HTML5 · CSS · SASS · Bootstrap · JavaScript · PHP · MySQL · JQuery · MVC · APIs · IONIC - [Udemy](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
 - **Programador Web** | · PHP · JavaScript · HTML5 · CSS · Bancos de dados - [IFSUL - Instituto Federal Sul-rio-grandense](https://www.ifsul.edu.br/)
 - **Web Development** | · Node · JavaScript · HTML5 · CSS · React · Express · SQL - [Mimo](https://mimo.org/)
+---
+### Soft skills 🚀
 
-# Soft skills 🚀
-
-## Linguagens de marcação e estilo
+#### Linguagens de marcação e estilo
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Linguagens de programação
+#### Linguagens de programação
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+---
+### Bibliotecas e Frameworks
 
-## Bibliotecas e Frameworks
-
-### Front end
+#### Front end
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=000000&color=dddddd)](https://nextjs.org/)
@@ -38,7 +37,7 @@
 [![Material UI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)](https://mui.com/material-ui/)
 [![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)](https://ui.shadcn.com)
 
-### Back end
+#### Back end
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)]()
@@ -48,14 +47,14 @@
 [![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)](https://orm.drizzle.team)
 [![Zod](https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white)](https://zod.dev)
 [![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)]()
-
-### Banco de dados
+---
+#### Banco de dados
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&color=0088dd)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=0066ee)](https://www.mysql.com/)
-
-### Ferramentas
+---
+#### Ferramentas
 
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
@@ -67,13 +66,13 @@
 [![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]()
+---
 
-
-### Conecte-se comigo
+#### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaschenkeldev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&color=red&logoColor=white)](mailto:rafaschenkel.dev@gmail.com)
 
-### 🐍 Minhas contribuições no Snake Game
+#### 🐍 Minhas contribuições no Snake Game
 ![Snake animation dark](https://github.com/rafaschenkel/rafaschenkel/blob/output/github-contribution-grid-snake-dark.svg)
 
