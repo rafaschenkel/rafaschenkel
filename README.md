@@ -1,11 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=3000&multiline=true&width=520&height=60&lines=Ol%C3%A1!+Me+chamo+Rafael+Schenkel%2C;sou+um+desenvolvedor+web+full+stack)](https://git.io/typing-svg)
 
-## Cursando
-
-- **Web Full Stack** | · JavaScript · TypeScript · Node · React · Bootstrap · Styled Components · Redux · Postgresql · Docker - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
-
+### 💼 Atuando como desenvolvedor front-end no ecommerce da Arezzo&Co pela Growdev
 ## Cursos concluidos
 
+- **Web Full Stack** | · JavaScript · TypeScript · Node · React · Bootstrap · Styled Components · Redux · Postgresql · Docker - [GrowDev](https://www.growdev.com.br/formacoes/desenvolvimento-web-full-stack)
 - **Formação React Developer** | · React · React Hooks · TypeScript · Next · Styled Components · TailwindCSS - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-react-developer)
 - **Formação JavaScript Developer** | · JavaScript · Node · Express - [Digital Innovation One](https://www.dio.me/bootcamp/formacao-javascript-developer)
 - **Desenvolvedor Web** | · HTML5 · CSS · SASS · Bootstrap · JavaScript · PHP · MySQL · JQuery · MVC · APIs · IONIC - [Udemy](https://www.udemy.com/course/web-completo/?couponCode=JUST4U02223)
